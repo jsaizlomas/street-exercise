@@ -15,6 +15,8 @@ python main.py
 The exploratory data analysis and model selection trainings can be run on the jupyter
 notebook after installing all libraries on 'requirements_nb.txt'.
 
+In order for the code to run, ensure the data file '*street_group_data_science_bedrooms_test.json*' is 
+inside the repositories  *data/* folder. This data file has not been uploaded to the repo due to its large size.
 
 ## Conclusion
 
